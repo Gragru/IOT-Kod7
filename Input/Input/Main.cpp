@@ -14,7 +14,7 @@ int main()
 	//cin >> y; // Fungerar inte med mellanslag
 	//cout << "You entered: " << y << endl << endl; 
 
-
+	cout << "Hej";
 
  
 	getline(cin, y); // Fungerar med mellanslag
